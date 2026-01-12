@@ -11,6 +11,20 @@
 3. **业务洞察**：识别高风险职位、安全职位，并提供可操作的建议
 4. **预测建模**：构建机器学习模型预测自动化风险
 
+## 📁 项目结构
+
+```
+AI & Jobs 2030/
+│
+├── README.md                            # 项目说明文档
+├── requirements.txt                     # Python依赖包
+├── AI_Impact_on_Jobs_2030.csv           # 原始数据集
+├── AI Job Impact Analysis.ipynb         # 主分析Notebook
+├── AI Job Impact Analysis.twbx          # Tableau仪表盘
+├── scripts.py                           # Python分析脚本
+│   
+```
+
 ## 📊 数据集
 
 - **来源**: Kaggle - AI Impact on Jobs 2030
@@ -38,20 +52,6 @@
 ### 可视化工具
 - **Tableau**: 交互式仪表板
 - **Python**: 静态和交互式图表
-
-## 📁 项目结构
-
-```
-AI & Jobs 2030/
-│
-├── README.md                            # 项目说明文档
-├── requirements.txt                     # Python依赖包
-├── AI_Impact_on_Jobs_2030.csv           # 原始数据集
-├── AI Job Impact Analysis.ipynb         # 主分析Notebook
-├── AI Job Impact Analysis.twbx          # Tableau仪表盘
-├── scripts.py                           # Python分析脚本
-│   
-```
 
 ## 📈 分析内容
 
