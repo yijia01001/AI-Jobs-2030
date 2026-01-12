@@ -47,8 +47,8 @@ AI & Jobs 2030/
 ├── README.md                            # 项目说明文档
 ├── requirements.txt                     # Python依赖包
 ├── AI_Impact_on_Jobs_2030.csv           # 原始数据集
-├── AI Job Impact Analysis.ipynb         # 主分析 Notebook
-├── AI Job Impact Analysis.twbx          # Tableau 仪表盘
+├── AI Job Impact Analysis.ipynb         # 主分析Notebook
+├── AI Job Impact Analysis.twbx          # Tableau仪表盘
 ├── scripts.py                           # Python分析脚本
 │   
 ```
